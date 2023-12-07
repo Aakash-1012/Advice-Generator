@@ -1,6 +1,7 @@
 # Advice-Generator
 This is a react app that provides random Advice and Quotes for you. I have used React on the front end and made requests to Advice Slip JSON API.
 
+https://aakash-1012-advice-generator.netlify.app/
 # Tech Stack:
 1. React.js
 2. Javascript
